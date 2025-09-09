@@ -21,8 +21,9 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   *2
   *3
   *4
+  
+![Github Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrFlPjigY9ng6LKyFOCSCEm3mA_AoMCm02hA&s)
 
-
-
+Esto es un _texto_
 
 
